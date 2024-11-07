@@ -11,6 +11,5 @@ command to run if program contains helper info
 Autores
 Nombres de los colaboradores e información de contacto
 
-Por ejemplo, Dominique Pizzie Por ejemplo
-, @DomPizzie
+Olai Porres González
 
