@@ -10,6 +10,6 @@ Un párrafo detallado sobre su proyecto y una descripción general de su uso.
 command to run if program contains helper info
 Autores
 Nombres de los colaboradores e información de contacto
-
+Eva Alvarez Roy
 Olai Porres González
-
+Irene Cid
