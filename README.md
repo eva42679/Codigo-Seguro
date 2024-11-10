@@ -1,4 +1,4 @@
-Codigo Segura
+﻿Codigo Segura
 Repositorio creado para la asignatura de Puesta en Produccion Segura.
 
 Descripción
@@ -14,6 +14,8 @@ Eva Alvarez Roy
 Olai Porres González
 Irene Cid
 
-
 rama para eva.alvarez:
 https://github.com/eva42679/Codigo-Seguro.git
+
+rama para
+Olai Porres: https://github.com/eva42679/Codigo-Seguro.git
